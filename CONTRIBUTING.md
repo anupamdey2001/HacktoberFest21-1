@@ -5,4 +5,4 @@
 * Create pull request
 * Wait till merged
 
-You can upload your projects, any algoithm or data structure problems, your portfolio and anything you want to show
+You can upload your projects, your portfolio and anything you want to show
